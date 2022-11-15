@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @teog0001
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Connie
+- 👀 I’m interested in Data Science and Football, looking to mirror both to formulate insights and create value to clubs , teams and national football associations
+- 🌱 I’m a recent graduate of General Assembly Data Science Immersive
+- 💞️ I’m looking to collaborate on projects utilising event data in football
+- 📫 Link me up on Github, Linkedin, Instagram
 
 <!---
 teog0001/teog0001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
